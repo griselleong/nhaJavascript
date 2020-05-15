@@ -83,5 +83,5 @@ let optionalFilters = {
     boroughFilter: boroughFilter
 };
 
-console.log(getGroceryList(allGroceryStores, optionalFilters, neededFields));
+console.log(getFilteredGroceryStores(allGroceryStores, optionalFilters));
 
