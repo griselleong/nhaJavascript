@@ -12,7 +12,7 @@ Parameters
 Return
 - float (decimal number): average of all integers in the array 
 */
-const calculateAverage = (numbers) =>{
+const calculateAverage = (numbers) => {
     
     /* WRITE CODE HERE */
 
@@ -34,7 +34,7 @@ Parameters
 
 Returns: float (decimal number):  average homework grade
 */
-const calculateHomeworkAverage = (classGrades, name){
+const calculateHomeworkAverage = (classGrades, name) => {
 
     /* WRITE CODE HERE */
     /* HINT: Use calculateAverage() function */
@@ -57,7 +57,7 @@ Parameters
 
 Returns: float (decimal number):  average homework grade
 */
-const calculateTestAverage = (classGrades, name){
+const calculateTestAverage = (classGrades, name) => {
 
     /* WRITE CODE HERE */
     /* HINT: Use calculateAverage() function */
