@@ -107,4 +107,4 @@ let myClassGrades = [
     }
 ];
 
-printStudentReport("Michael");
+printStudentReport(myClassGrades, "Michael");
