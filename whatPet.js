@@ -115,6 +115,6 @@ GROUP A
 GROUP B
 1) Grocery Item with the Median price of all the items
 2) Grocery Item with a price that is divisible by 3 
-4)
+3) Longest Grocery Item Name
 
 */
