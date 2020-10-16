@@ -103,7 +103,8 @@ let groceryItems = [
 
 /*
 Write the code to find the answer to the following 
-Then take the first letter of the grocery item that matches your answer
+
+Then take the FIRST LETTER of the grocery item that matches your answer
 
 GROUP A
 1) Cheapest Grocery Item
