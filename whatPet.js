@@ -110,13 +110,11 @@ GROUP A
 1) Cheapest Grocery Item
 2) Most Expensive Grocery Item
 3) Grocery Item with the Price that is Most Expensive minus Cheapest
+4) Grocery Item with the Average price of all the items
 
 GROUP B
-1) Longest Grocery Item Name
-2) Grocery Item with the Average price of all the items
-
-GROUP C
 1) Grocery Item with the Median price of all the items
 2) Grocery Item with a price that is divisible by 3 
+4)
 
 */
